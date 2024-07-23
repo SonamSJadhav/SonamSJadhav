@@ -1,4 +1,4 @@
-## Hellow full Stack Developer...!! 👋
+## Hellooo Full Stack Developers...!! 👋
 
 <!--
 **SonamSJadhav/SonamSJadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
