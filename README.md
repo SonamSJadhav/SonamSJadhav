@@ -1,5 +1,5 @@
 ## Helloooo Developers...!!! 👋✨
-I am Java Developer
+I'm Java Developer.
 
 <!--
 **SonamSJadhav/SonamSJadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
